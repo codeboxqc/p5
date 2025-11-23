@@ -1,5 +1,8 @@
 ✅ Simple README (Easy Text)
-WebRed – Fullscreen WebView2 + p5.js Renderer
+WebRed – Fullscreen WebView2 + p5.js Renderer from exe window
+
+ if you compile you stiil need .js scrip in the zip to test
+ 
 
 WebRed is a lightweight Windows application that opens a fullscreen borderless window and displays interactive p5.js animations using Microsoft WebView2.
 
